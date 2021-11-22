@@ -4,7 +4,7 @@ This repository contains the Matlab algorithm used to generate the data sets con
 
 Replicating implementation:
 1. Run the _ConfigValidate_ script. This will generate the data sets, the software version of the SOM, and all the hardware parameters.
-2. Run the hardware version desired, named Parallel_n_x_. The 'n' refers to the number of neurons.
+2. Run the hardware version desired, named Parallel_n**x**. The 'n' refers to the number of neurons.
 3. Run the _FinalHardwarePlot_ script to plot the results. 
 
 # Article
